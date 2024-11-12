@@ -15,7 +15,7 @@ Education
 
 Research Paper
 ======
-* Luyao Zhuang, Iterative Data Generation with Large Language Models for Aspect-based Sentiment Analysis, CO-First Author(TASLP 2024 under review))
+* Luyao Zhuang, Iterative Data Generation with Large Language Models for Aspect-based Sentiment Analysis, CO-First Author(TASLP 2024 under review)
 
 Awards and Scholarships
 ======
