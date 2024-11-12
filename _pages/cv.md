@@ -30,19 +30,19 @@ Work experience
 ======
 * AskSia Inc, Shanghai, P.R. China  2024.3-2024.6
    Project:  Utilizing Multi-Agent Systems to Improve Mathematical Problem-Solving Accuracy
-  *  Engaged a main agent and eval agent in rounds of self-questioning to find optimal solutions.
-  *  Deeply understanding problems through structurally extracting information, helping reduce reasoning errors caused by semantic misunderstandings.
+  * Engaged a main agent and eval agent in rounds of self-questioning to find optimal solutions.
+  * Deeply understanding problems through structurally extracting information, helping reduce reasoning errors caused by semantic misunderstandings.
   
 Research Experiences
 ======
 * Wuhan University,Research Assistant (Full Time)  2024.8-present
-   Paper: Iterative Data Generation with Large Language Models for Aspect-based Sentiment Analysis , Supervise by Juhua Liu
-  *  Proposed a Iterative Data Generation approach (IDG) for ABSA by leveraging the powerful abilities of LLM.
-  *  Demonstrated the effectiveness of IDG through extensive results on four widely-used ABSA benchmarks.
-   Project: The Impact of Query Ambiguity on an Agent’s Tool-Use Capabilities , Supervise by Juhua Liu
-  *  Analyzed the impact of varying query ambiguities in the API retriever stage and trajectory generation stage on metrics such as API hallucination, planning accuracy , action execution metrics, and performance in environment like Pass Rate and Win Rate.
+  * Paper: Iterative Data Generation with Large Language Models for Aspect-based Sentiment Analysis , Supervise by Juhua Liu
+  * Proposed a Iterative Data Generation approach (IDG) for ABSA by leveraging the powerful abilities of LLM.
+  * Demonstrated the effectiveness of IDG through extensive results on four widely-used ABSA benchmarks.
+  * Project: The Impact of Query Ambiguity on an Agent’s Tool-Use Capabilities , Supervise by Juhua Liu
+  * Analyzed the impact of varying query ambiguities in the API retriever stage and trajectory generation stage on metrics such as API hallucination, planning accuracy , action execution metrics, and performance in environment like Pass Rate and Win Rate.
 * Huazhong University of Science and Technology 2024.3-2024.6
-   Project:  Human-Facial-Related Age Synthesis Based on GAN Methods, Supervise by Jianzhong Sheng
+  * Project:  Human-Facial-Related Age Synthesis Based on GAN Methods, Supervise by Jianzhong Sheng
   * Project leader
   * Utilized a CNN architecture to hierarchically extract facial structure and texture features.
   * Introduced a Spirit-Module architecture based on the Dlib facial recognition network to extract spirit features.
