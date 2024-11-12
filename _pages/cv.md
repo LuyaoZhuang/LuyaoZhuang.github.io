@@ -29,7 +29,7 @@ Awards and Scholarships
 Work experience
 ======
 * AskSia Inc, Shanghai, P.R. China  2024.3-2024.6
-   Project:  Utilizing Multi-Agent Systems to Improve Mathematical Problem-Solving Accuracy
+  * Project:  Utilizing Multi-Agent Systems to Improve Mathematical Problem-Solving Accuracy
   * Engaged a main agent and eval agent in rounds of self-questioning to find optimal solutions.
   * Deeply understanding problems through structurally extracting information, helping reduce reasoning errors caused by semantic misunderstandings.
   
