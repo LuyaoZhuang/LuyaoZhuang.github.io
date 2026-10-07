@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luyaozhuang.github.io/sitemap.xml

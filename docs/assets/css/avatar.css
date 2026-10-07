@@ -1,0 +1,6 @@
+/* Keep the reference template's layout and display the selected avatar as a circle. */
+.author__avatar img {
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 50%;
+}
