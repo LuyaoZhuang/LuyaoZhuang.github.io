@@ -26,7 +26,7 @@ The old Jekyll source remains intact. The `.nojekyll` file allows the new homepa
 - Update text and links in `docs/index.html`.
 - Replace `docs/images/avatar.jpg` to update the avatar.
 - Preserve `docs/assets/css/main.css` and `docs/assets/css/academicons.css` to retain the reference site's formatting.
-- GitHub Stars badges use Shields.io and update independently of the site. Their counts are not hardcoded.
+- GitHub Stars badges are served locally in the original social style. `docs/assets/js/stars.js` refreshes counts from the public GitHub API; if that request fails, the last verified SVG counts remain visible. The bundled counts were verified on 2026-10-07.
 
 ## Content sources
 
