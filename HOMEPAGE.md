@@ -24,6 +24,7 @@ The old Jekyll source remains intact. The `.nojekyll` file allows the new homepa
 ## Maintain
 
 - Update text and links in `docs/index.html`.
+- The Outreach form is owned by Luyao Zhuang. [Edit questions and view responses](https://docs.google.com/forms/d/164XzLXYHaN1lt9uuXNhiwQ9Rab6KOxN2J0mj4NABN6I/edit); [public request form](https://docs.google.com/forms/d/e/1FAIpQLSd3vL8UC93brST-SfSMuJOzd6wr2Ob8lqa9KgEz9QOX3X9eRg/viewform). File uploads are optional (one PDF, document, or image up to 10 MB) and require respondents to sign in to Google.
 - Replace `docs/images/avatar.jpg` to update the avatar.
 - Preserve `docs/assets/css/main.css` and `docs/assets/css/academicons.css` to retain the reference site's formatting.
 - GitHub Stars badges are served locally in the original social style. `docs/assets/js/stars.js` refreshes counts from the public GitHub API; if that request fails, the last verified SVG counts remain visible. The bundled counts were verified on 2026-10-07.
